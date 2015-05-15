@@ -1,0 +1,12 @@
+nav.navbar.navbar-inverse.navbar-fixed-top a.navbar-brand {
+  color: #78D1B5;
+}
+
+button.navbar-toggle.collapsed span.icon-bar {
+	background-color: #78D1B5;
+}
+
+.navbar-default .navbar-nav > .dropdown > span.caret {
+  border-top-color: #78D1B5;
+  border-bottom-color: #78D1B5;
+}
